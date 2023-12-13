@@ -118,6 +118,7 @@ function pickPlanet(planets) {
     return planets[randomPlanet];
 }
 
+
 module.exports.addDestinationInfo = addDestinationInfo;
 module.exports.validateInput = validateInput;
 module.exports.formSubmission = formSubmission;
